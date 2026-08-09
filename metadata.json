@@ -1,0 +1,6 @@
+{
+  "name": "أوتوبوت للمركبات وخدمات السيارات",
+  "description": "الموقع الرسمي لمركز صيانة وإصلاح السيارات الاحترافي والعقود وحجوزات الصيانة",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
